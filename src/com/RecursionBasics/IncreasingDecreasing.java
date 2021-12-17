@@ -1,4 +1,4 @@
-package com.IncreasingDecreasing;
+package com.RecursionBasics;
 import java.util.*;
 
 public class IncreasingDecreasing
